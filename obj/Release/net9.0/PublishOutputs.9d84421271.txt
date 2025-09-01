@@ -1,0 +1,13 @@
+C:\Users\Lenovo\OneDrive\PRactice\ZodiacApp\publish\ZodiacApp.exe
+C:\Users\Lenovo\OneDrive\PRactice\ZodiacApp\publish\publish\web.config
+C:\Users\Lenovo\OneDrive\PRactice\ZodiacApp\publish\appsettings.Development.json
+C:\Users\Lenovo\OneDrive\PRactice\ZodiacApp\publish\appsettings.json
+C:\Users\Lenovo\OneDrive\PRactice\ZodiacApp\publish\publish\appsettings.Development.json
+C:\Users\Lenovo\OneDrive\PRactice\ZodiacApp\publish\publish\appsettings.json
+C:\Users\Lenovo\OneDrive\PRactice\ZodiacApp\publish\publish\ZodiacApp.deps.json
+C:\Users\Lenovo\OneDrive\PRactice\ZodiacApp\publish\publish\ZodiacApp.runtimeconfig.json
+C:\Users\Lenovo\OneDrive\PRactice\ZodiacApp\publish\publish\ZodiacApp.staticwebassets.endpoints.json
+C:\Users\Lenovo\OneDrive\PRactice\ZodiacApp\publish\ZodiacApp.dll
+C:\Users\Lenovo\OneDrive\PRactice\ZodiacApp\publish\ZodiacApp.deps.json
+C:\Users\Lenovo\OneDrive\PRactice\ZodiacApp\publish\ZodiacApp.runtimeconfig.json
+C:\Users\Lenovo\OneDrive\PRactice\ZodiacApp\publish\ZodiacApp.pdb
