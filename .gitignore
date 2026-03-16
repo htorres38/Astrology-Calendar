@@ -1,1 +1,10 @@
 .vercel
+bin/
+obj/
+publish/
+*.zip
+appsettings.*.json
+.vs/
+*.user
+*.suo
+*.log
